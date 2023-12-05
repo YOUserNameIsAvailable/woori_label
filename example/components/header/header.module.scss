@@ -1,0 +1,22 @@
+@import "styles/var";
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 10px;
+	padding: 5px 15px;
+}
+
+.container {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 10px;
+
+	> div {
+		min-width: initial;
+		min-height: initial;
+	}
+}

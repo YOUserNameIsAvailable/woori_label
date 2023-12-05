@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "owner_id": 1,
+  "owner_name": "Marcel",
+  "is_active" : true,
+  "address": "22 Silver Spear St. San Diego, CA 92105, USA",
+  "phone": "+88028567525999",
+  "website": "https://razor-contentbuilder.vercel.app/",
+  "name": "Store Market",
+  "slug": "store-market",
+  "description": "The Store Market shop is the best shop around the city. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  "cover_image": {
+    "id": 1,
+    "thumbnail": "/assets/images/shop/shop-banner-1.jpg",
+    "original": "/assets/images/shop/shop-banner-mobile-1.png"
+  },
+  "logo": {
+    "id": 1,
+    "thumbnail": "/assets/images/shop/shop-logo-1.jpg",
+    "original": "/assets/images/shop/shop-logo-1.jpg"
+  },
+  "created_at": "2018-05-23",
+  "updated_at": "2020-05-23"
+}

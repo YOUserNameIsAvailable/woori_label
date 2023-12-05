@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Common Good",
+      "slug": "common-good"
+    },
+    {
+      "id": 2,
+      "name": "Sagaform",
+      "slug": "sagaform"
+    },
+    {
+      "id": 3,
+      "name": "Nunc feugiat",
+      "slug": "nunc-feugiat"
+    }
+  ]
+}

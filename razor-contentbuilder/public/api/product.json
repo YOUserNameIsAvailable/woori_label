@@ -1,0 +1,203 @@
+{
+  "id": "pbsg3",
+  "name": "[Sample] Chemex Coffeemaker 3 Cup  consetetur sadipscing elitr",
+  "slug": "sample-chemex-coffeemaker-3-cup-consetetur-sadipscing-elitr",
+  "description": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/products/p-3.jpg",
+    "original": "/assets/images/products/p-3.jpg"
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-3-1.jpg",
+      "original": "/assets/images/products/p-3-1.jpg"
+    },
+    {
+      "id": 2,
+      "thumbnail": "/assets/images/products/p-3-2.jpg",
+      "original": "/assets/images/products/p-3-2.jpg"
+    },
+    {
+      "id": 3,
+      "thumbnail": "/assets/images/products/p-3-3.jpg",
+      "original": "/assets/images/products/p-3-3.jpg"
+    },
+    {
+      "id": 4,
+      "thumbnail": "/assets/images/products/p-3-1.jpg",
+      "original": "/assets/images/products/p-3-1.jpg"
+    },
+    {
+      "id": 5,
+      "thumbnail": "/assets/images/products/p-3-2.jpg",
+      "original": "/assets/images/products/p-3-2.jpg"
+    },
+    {
+      "id": 6,
+      "thumbnail": "/assets/images/products/p-3-3.jpg",
+      "original": "/assets/images/products/p-3-3.jpg"
+    }
+  ],
+  "quantity": 70,
+  "price": null,
+  "sale_price": null,
+  "brand": "OFS",
+  "weight": "1.00",
+  "tag": [
+    {
+      "id": 1,
+      "name": "Phone",
+      "slug": "phone"
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "id": 3,
+      "name": "Cilantro",
+      "slug": "cilantro"
+    },
+    {
+      "id": 4,
+      "name": "Smart TV",
+      "slug": "smart-tv"
+    }
+  ],
+  "product_type": "variable",
+  "max_price": 40,
+  "min_price": 25,
+  "variations": [
+    {
+      "id": 8,
+      "attribute_id": 3,
+      "value": "12oz",
+      "attribute": {
+        "id": 3,
+        "slug": "available-in",
+        "name": "Available In",
+        "values": [
+          {
+            "id": 8,
+            "attribute_id": 3,
+            "value": "12oz"
+          },
+          {
+            "id": 9,
+            "attribute_id": 3,
+            "value": "24oz"
+          },
+          {
+            "id": 10,
+            "attribute_id": 3,
+            "value": "36oz"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "attribute_id": 3,
+      "value": "24oz",
+      "attribute": {
+        "id": 3,
+        "slug": "available-in",
+        "name": "Available In",
+        "values": [
+          {
+            "id": 8,
+            "attribute_id": 3,
+            "value": "12oz"
+          },
+          {
+            "id": 9,
+            "attribute_id": 3,
+            "value": "24oz"
+          },
+          {
+            "id": 10,
+            "attribute_id": 3,
+            "value": "36oz"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "attribute_id": 3,
+      "value": "36oz",
+      "attribute": {
+        "id": 3,
+        "slug": "available-in",
+        "name": "Available In",
+        "values": [
+          {
+            "id": 8,
+            "attribute_id": 3,
+            "value": "12oz"
+          },
+          {
+            "id": 9,
+            "attribute_id": 3,
+            "value": "24oz"
+          },
+          {
+            "id": 10,
+            "attribute_id": 3,
+            "value": "36oz"
+          }
+        ]
+      }
+    }
+  ],
+  "variation_options": [
+    {
+      "id": 247,
+      "title": "12oz",
+      "price": 35,
+      "sale_price": null,
+      "quantity": "10",
+      "is_disable": 0,
+      "sku": "200101",
+      "options": [
+        {
+          "name": "Available In",
+          "value": "12oz"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "title": "24oz",
+      "price": 35,
+      "sale_price": 25,
+      "quantity": "35",
+      "is_disable": 0,
+      "sku": "200102",
+      "options": [
+        {
+          "name": "Available In",
+          "value": "24oz"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "title": "36oz",
+      "price": 40,
+      "sale_price": null,
+      "quantity": "25",
+      "is_disable": 0,
+      "sku": "200103",
+      "options": [
+        {
+          "name": "Available In",
+          "value": "36oz"
+        }
+      ]
+    }
+  ]
+}

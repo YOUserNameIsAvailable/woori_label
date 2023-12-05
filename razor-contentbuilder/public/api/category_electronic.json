@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "name": "Electronic & Digital",
+  "slug": "electronic-digital",
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/category/collection_1.jpg",
+    "original": "/assets/images/category/collection_1.jpg"
+  },
+  "children": [
+    {
+      "id": 1,
+      "name": "Bags & Accessories",
+      "slug": "arugula"
+    },
+    {
+      "id": 2,
+      "name": "Electronic & Digital",
+      "slug": "asparagus"
+    },
+    {
+      "id": 3,
+      "name": "Garden & Kitchen",
+      "slug": "beets"
+    },
+    {
+      "id": 4,
+      "name": "Home & Kitchen",
+      "slug": "cabbages"
+    },
+    {
+      "id": 5,
+      "name": "Lighting & Lamps",
+      "slug": "arugula"
+    },
+    {
+      "id": 6,
+      "name": "Home Accessories",
+      "slug": "arugula"
+    },
+    {
+      "id": 7,
+      "name": "Fashion Scarves",
+      "slug": "arugula"
+    }
+  ]
+}
+

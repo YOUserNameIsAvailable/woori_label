@@ -1,0 +1,67 @@
+@import "styles/var";
+
+
+.menu {
+	position: absolute;
+	top: 100%;
+	right: 0;
+	width: 100%;
+	height: calc(100vh - 60px);
+
+	padding: 8px 0 40px;
+	background: #131313;
+
+	z-index: 1999;
+	overflow-x: hidden;
+	overflow-y: auto;
+
+	transform: translateX(calc(100% + 30px));
+	transition: transform 0.3s ease;
+	
+
+	li {
+		width: 100%;
+
+		color: $white;
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 700;
+
+		&:hover,
+		&:active,
+		&:focus {
+			background: rgb(0, 0, 0);
+		}
+		& a{
+			padding: 10px 20px 10px 40px;
+		}
+	}
+}
+
+.open {
+	width: 100%;
+	height: calc(100vh - 60px);
+
+	transform: translateX(0);
+	transition: transform 0.3s ease;
+}
+
+.burgerHeader {
+	font-family: Roboto;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	color: $white;
+
+	padding: 6px 25px 13px;
+	margin-bottom: 20px;
+
+}
+
+.burgerLink {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+

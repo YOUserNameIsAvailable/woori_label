@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "name": "Cellphones & Tablets",
+  "slug": "cellphones-tablets",
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/category/collection_1.jpg",
+    "original": "/assets/images/category/collection_1.jpg"
+  },
+  "children": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "slug": "computer"
+    },
+    {
+      "id": 2,
+      "name": "Electronic & Digital",
+      "slug": "asparagus"
+    },
+    {
+      "id": 3,
+      "name": "Groceries",
+      "slug": "groceries"
+    },
+    {
+      "id": 4,
+      "name": "Sport",
+      "slug": "sport"
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "slug": "smart-watch"
+    },
+    {
+      "id": 6,
+      "name": "Home Accessories",
+      "slug": "accessories"
+    },
+    {
+      "id": 7,
+      "name": "Fashion Scarves",
+      "slug": "fashion"
+    }
+  ]
+}
+

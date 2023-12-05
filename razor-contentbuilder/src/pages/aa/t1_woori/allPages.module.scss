@@ -1,0 +1,53 @@
+.wrapper {
+	height: 100%;
+	margin: auto;
+	width: 80%;
+	padding: 10px;
+	background-color: #f9f9f9;
+	border-radius: 10px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+	background-image: url('/assets/aa/bg_header.png');
+
+	table {
+		flex: 1;
+		width: 100%;
+		border-collapse: collapse;
+		color: #000;
+		font-size : 20px;
+		font-weight : 900;
+	
+	}
+
+	tbody {
+		background-color: #0092e4;
+		color: #fff;
+	}
+
+	th, td {
+		padding: 15px;
+		text-align: left;
+		border-bottom: 1px solid #ddd;
+	}
+
+	th {
+		cursor: pointer;
+	}
+
+	tbody tr {
+		height : 70px;
+	}
+
+	
+	div {
+		margin-top : 20px;
+		padding : 10px;
+		font-size : 20px;
+		font-weight : bolder;
+		color : white;
+		border: 1px solid !important;
+		border-radius: 10px !important;
+		background : skyblue;
+
+	}
+
+}

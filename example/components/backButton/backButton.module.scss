@@ -1,0 +1,19 @@
+.btn {
+	white-space: nowrap;
+}
+
+.backImage {
+	height: 24px;
+	width: 24px;
+	border-radius: 50%;
+	filter: brightness(1);
+
+	transition: filter 0.3s;
+
+
+	&:hover,
+	&:active,
+	&:focus {
+		filter: brightness(0.7);
+	}
+}

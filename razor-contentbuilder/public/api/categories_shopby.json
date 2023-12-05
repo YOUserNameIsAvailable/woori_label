@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Audio Music",
+      "slug": "audio",
+      "type": "mega",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate1.jpg",
+        "original": "/assets/images/category/cate1.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Phones & Tablets",
+      "slug": "phone-tablets",
+      "type": "mega",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.jpg",
+        "original": "/assets/images/category/cate2.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Fashion & Clothing",
+      "slug": "fashion-clothing",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate3.jpg",
+        "original": "/assets/images/category/cate3.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Garden & Kitchen",
+      "slug": "garden-kitchen",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/collection_4.jpg",
+        "original": "/assets/images/category/collection_4.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "TV & Video",
+      "slug": "tv-video",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate4.jpg",
+        "original": "/assets/images/category/cate4.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Beauty & Health",
+      "slug": "beauty-health",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate5.jpg",
+        "original": "/assets/images/category/cate5.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Jewelry & Watches",
+      "slug": "jewelry-watches",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate6.jpg",
+        "original": "/assets/images/category/cate6.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Top 10 Offers",
+      "slug": "quality-milk",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate7.jpg",
+        "original": "/assets/images/category/cate7.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Accessories",
+      "slug": "accessories",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate8.jpg",
+        "original": "/assets/images/category/cate8.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Beaf Steak",
+      "slug": "beaf-steak",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate9.jpg",
+        "original": "/assets/images/category/cate9.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Vitamin Items",
+      "slug": "vitamin-items",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate10.jpg",
+        "original": "/assets/images/category/cate10.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Raw Chicken mdeo",
+      "slug": "raw-chicken",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate11.jpg",
+        "original": "/assets/images/category/cate11.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Breakfast Item",
+      "slug": "breakfast-item",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate12.jpg",
+        "original": "/assets/images/category/cate12.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Fish Items",
+      "slug": "fish-items",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate12.jpg",
+        "original": "/assets/images/category/cate12.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Green Vegetables",
+      "slug": "green-vegetables",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate12.jpg",
+        "original": "/assets/images/category/cate12.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "react-contentbuilder",
+  "version": "1.0.0",
+  "scripts": {
+    "push": "git add . && git commit -m autopush && git push",
+    "dev": "cd builder-front && npm run dev",
+    "e": "cd example && npm run dev",
+    "server": "cd backend && npm start",
+    "fulldev": "start /B cmd /c \"cd builder-front && set PORT=3003 && npm run dev\" & start /B cmd /c \"cd razor-contentbuilder && npm run dev -- -p 3004\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

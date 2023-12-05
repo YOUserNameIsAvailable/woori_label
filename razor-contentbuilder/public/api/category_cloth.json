@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "Fashion & Clothing",
+  "slug": "fashion-clothing",
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/category/collection_1.jpg",
+    "original": "/assets/images/category/collection_1.jpg"
+  },
+  "children": [
+    {
+      "id": 1,
+      "name": "Accessories",
+      "slug": "accessories"
+    },
+    {
+      "id": 2,
+      "name": "Book & Office",
+      "slug": "book-office"
+    },
+    {
+      "id": 3,
+      "name": "Lighting & Lamps",
+      "slug": "lighting-lamps"
+    },
+    {
+      "id": 4,
+      "name": "School Uniforms",
+      "slug": "school-uniforms"
+    },
+    {
+      "id": 5,
+      "name": "Girls New",
+      "slug": "girls-new"
+    }
+  ]
+}
+

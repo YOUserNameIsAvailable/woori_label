@@ -1,0 +1,10 @@
+@import "styles/var";
+
+.code {
+	background-color: $black;
+	color: $white;
+	word-break: break-all;
+	box-shadow: 0 0 10px rgba(255,255,255,.5);
+	border-radius: 10px;
+	padding: 10px;
+}

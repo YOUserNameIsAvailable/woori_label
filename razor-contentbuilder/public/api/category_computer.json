@@ -1,0 +1,43 @@
+{
+  "id": 1,
+  "name": "Laptop & Computer",
+  "slug": "laptop-computer",
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/category/collection_1.jpg",
+    "original": "/assets/images/category/collection_1.jpg"
+  },
+  "children": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "id": 2,
+      "name": "Laptop Acer",
+      "slug": "laptop-acer"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Asus",
+      "slug": "laptop-asus"
+    },
+    {
+      "id": 4,
+      "name": "Laptop Dell",
+      "slug": "laptop-dell"
+    },
+    {
+      "id": 5,
+      "name": "Laptop Hp",
+      "slug": "laptop-hp"
+    },
+    {
+      "id": 6,
+      "name": "Laptop LG",
+      "slug": "laptop-lg"
+    }
+  ]
+}
+
